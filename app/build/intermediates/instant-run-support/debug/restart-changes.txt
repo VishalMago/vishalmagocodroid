@@ -1,0 +1,6 @@
+CHANGED,C:\Users\Hp\AndroidStudioProjects\TechGig\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\techgig\EmailPasswordActivity$7.class
+CHANGED,C:\Users\Hp\AndroidStudioProjects\TechGig\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\techgig\EmailPasswordActivity$7$2.class
+CHANGED,C:\Users\Hp\AndroidStudioProjects\TechGig\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\techgig\EmailPasswordActivity.class
+REMOVED,C:\Users\Hp\AndroidStudioProjects\TechGig\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\techgig\EmailPasswordActivity$7$4.class
+CHANGED,C:\Users\Hp\AndroidStudioProjects\TechGig\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\techgig\EmailPasswordActivity$7$1.class
+CHANGED,C:\Users\Hp\AndroidStudioProjects\TechGig\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\techgig\EmailPasswordActivity$7$3.class

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Hp\\AndroidStudioProjects\\TechGig\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Hp\\AndroidStudioProjects\\TechGig\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\AndroidStudioProjects\\TechGig\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_person_black_24dp.png",
+        "source": "C:\\Users\\Hp\\AndroidStudioProjects\\TechGig\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\AndroidStudioProjects\\TechGig\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_attach_money_black_24dp.png",
+        "source": "C:\\Users\\Hp\\AndroidStudioProjects\\TechGig\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\AndroidStudioProjects\\TechGig\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_power_settings_new_black_24dp.png",
+        "source": "C:\\Users\\Hp\\AndroidStudioProjects\\TechGig\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\AndroidStudioProjects\\TechGig\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_lock_black_24dp.png",
+        "source": "C:\\Users\\Hp\\AndroidStudioProjects\\TechGig\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lock_black_24dp.png"
+    }
+]

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "522016437278",
+    "firebase_url": "https://technovation-ace.firebaseio.com",
+    "project_id": "technovation-ace",
+    "storage_bucket": "technovation-ace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522016437278:android:9fc9b1427e1e297a",
+        "android_client_info": {
+          "package_name": "com.techgig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522016437278-itlid1386i5oidsm17nqc78ln55h839b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdtLq47oJaglRWLnIQNRSRqvrp6LRKxRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

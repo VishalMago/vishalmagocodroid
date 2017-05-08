@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical" android:layout_width="300dp"
+              android:layout_height="370dp">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorPrimaryDark"
+        android:layout_height="45dp">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/unsub"
+            android:background="@drawable/ic_attach_money_black_24dp"
+            android:layout_height="wrap_content" />
+    </FrameLayout>
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/colorPrimary"
+        android:text="Enter the money in Rs:"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <NumberPicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/numberPicker"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/transfer"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_background"
+        android:textColor="@android:color/white"
+        android:text="Make Payment"
+        />
+</LinearLayout>
